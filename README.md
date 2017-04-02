@@ -1,3 +1,3 @@
 # bat-python
-codingbat excercises
-https://github.com/m-debnath/bat-python.git
+# codingbat excercises
+# https://github.com/m-debnath/bat-python.git
